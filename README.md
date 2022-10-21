@@ -1,3 +1,3 @@
 # IOS
 iOS basic
-Hello 500 let's start
+Hello 500 let's start...
